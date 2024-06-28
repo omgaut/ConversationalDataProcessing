@@ -1,0 +1,3 @@
+- Developed a conversational AI to chat with SQLite data utilizing Langchain and LLM wrappers 
+- Integrated OpenAI API within Langchain SQL Database chains, handling natural language inputs and generating query responses
+- Leveraged HuggingFace SeamlessM4T for speech-to-text functionality and Gradio API to create a dynamic interface for model prediction
